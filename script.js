@@ -17,7 +17,7 @@ function hide(){
  
 
 function exit(){
-  if(confirm("sure,you Exit")){
+  if(confirm("chal nikal bsdk")){
     window.close()
   }
  }
